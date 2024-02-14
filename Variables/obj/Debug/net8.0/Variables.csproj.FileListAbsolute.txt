@@ -12,3 +12,4 @@
 /home/jmkivett93/Documents/Variables/obj/Debug/net8.0/Variables.pdb
 /home/jmkivett93/Documents/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
 /home/jmkivett93/Documents/Variables/obj/Debug/net8.0/ref/Variables.dll
+/home/jmkivett93/Documents/Variables/obj/Debug/net8.0/Variables.sourcelink.json
