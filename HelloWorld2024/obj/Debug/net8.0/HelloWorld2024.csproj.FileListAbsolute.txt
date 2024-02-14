@@ -1,0 +1,14 @@
+/home/jmkivett93/Documents/HelloWorld2024/bin/Debug/net8.0/HelloWorld2024
+/home/jmkivett93/Documents/HelloWorld2024/bin/Debug/net8.0/HelloWorld2024.deps.json
+/home/jmkivett93/Documents/HelloWorld2024/bin/Debug/net8.0/HelloWorld2024.runtimeconfig.json
+/home/jmkivett93/Documents/HelloWorld2024/bin/Debug/net8.0/HelloWorld2024.dll
+/home/jmkivett93/Documents/HelloWorld2024/bin/Debug/net8.0/HelloWorld2024.pdb
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.AssemblyInfoInputs.cache
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.AssemblyInfo.cs
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.csproj.CoreCompileInputs.cache
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.dll
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/refint/HelloWorld2024.dll
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.pdb
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/HelloWorld2024.genruntimeconfig.cache
+/home/jmkivett93/Documents/HelloWorld2024/obj/Debug/net8.0/ref/HelloWorld2024.dll

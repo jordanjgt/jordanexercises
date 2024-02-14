@@ -1,0 +1,14 @@
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.AssemblyInfoInputs.cache
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.AssemblyInfo.cs
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.csproj.CoreCompileInputs.cache
+/home/jmkivett93/Documents/Excersizes/bin/Debug/net8.0/Excersizes
+/home/jmkivett93/Documents/Excersizes/bin/Debug/net8.0/Excersizes.deps.json
+/home/jmkivett93/Documents/Excersizes/bin/Debug/net8.0/Excersizes.runtimeconfig.json
+/home/jmkivett93/Documents/Excersizes/bin/Debug/net8.0/Excersizes.dll
+/home/jmkivett93/Documents/Excersizes/bin/Debug/net8.0/Excersizes.pdb
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.dll
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/refint/Excersizes.dll
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.pdb
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/Excersizes.genruntimeconfig.cache
+/home/jmkivett93/Documents/Excersizes/obj/Debug/net8.0/ref/Excersizes.dll
