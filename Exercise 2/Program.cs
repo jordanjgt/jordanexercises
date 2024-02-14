@@ -2,25 +2,24 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Microsoft.VisualBasic;
 
-
-namespace Exercise2
+namespace Excersices 
 {
     class Program
     {
         public static void Main(string [] args)
+
         {
             string sentenceA = "";
             string searchTerm = "";
          
             var sentenceIsValid = false;
-            while (sentenceA = )
+            while (!sentenceIsValid == true)
             {
                 System.Console.WriteLine("Please enter a sentence: ");
                 sentenceA = Console.ReadLine();
 
-                if (string.IsNullOrEmpty(sentenceA))
+                if (!string.IsNullOrEmpty(sentenceA))
                 {
                     sentenceIsValid = true;
                 }
@@ -30,12 +29,12 @@ namespace Exercise2
                 }
             }
                 var searchtermIsValid = false;
-                while (searchtermIsValid == true)
+                while (!searchtermIsValid == true)
             {
                 System.Console.WriteLine("Please enter your search term: ");
                 searchTerm = Console.ReadLine(); 
 
-                if (string.IsNullOrEmpty(searchTerm))
+                if (!string.IsNullOrEmpty(searchTerm))
                 {
                     searchtermIsValid = true;
                 }
@@ -53,7 +52,9 @@ namespace Exercise2
             System.Console.WriteLine(lastOccurance);
 
 
-        }
-    }
+        } 
 }
 
+
+    }
+        
