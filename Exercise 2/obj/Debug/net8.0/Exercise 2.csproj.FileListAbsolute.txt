@@ -12,3 +12,4 @@
 /home/jmkivett93/Documents/Exercise 2/obj/Debug/net8.0/Exercise 2.pdb
 /home/jmkivett93/Documents/Exercise 2/obj/Debug/net8.0/Exercise 2.genruntimeconfig.cache
 /home/jmkivett93/Documents/Exercise 2/obj/Debug/net8.0/ref/Exercise 2.dll
+/home/jmkivett93/Documents/Exercise 2/obj/Debug/net8.0/Exercise 2.sourcelink.json

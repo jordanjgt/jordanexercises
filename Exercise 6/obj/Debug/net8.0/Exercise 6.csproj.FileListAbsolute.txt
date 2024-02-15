@@ -1,0 +1,15 @@
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.AssemblyInfoInputs.cache
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.AssemblyInfo.cs
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.csproj.CoreCompileInputs.cache
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.sourcelink.json
+/home/jmkivett93/Documents/Exercise 6/bin/Debug/net8.0/Exercise 6
+/home/jmkivett93/Documents/Exercise 6/bin/Debug/net8.0/Exercise 6.deps.json
+/home/jmkivett93/Documents/Exercise 6/bin/Debug/net8.0/Exercise 6.runtimeconfig.json
+/home/jmkivett93/Documents/Exercise 6/bin/Debug/net8.0/Exercise 6.dll
+/home/jmkivett93/Documents/Exercise 6/bin/Debug/net8.0/Exercise 6.pdb
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.dll
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/refint/Exercise 6.dll
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.pdb
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/Exercise 6.genruntimeconfig.cache
+/home/jmkivett93/Documents/Exercise 6/obj/Debug/net8.0/ref/Exercise 6.dll
