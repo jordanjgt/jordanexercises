@@ -4,7 +4,7 @@
   <value name="VSInstanceId" type="string">ab14871d-5358-454a-bd16-6a8203f2a8801708021615642</value>
   <value name="VSIs64BitProcess" type="string">True</value>
   <value name="vscodeversion" type="string">1.86.1</value>
-  <value name="StillAlive" type="qword">133525210452589877</value>
+  <value name="StillAlive" type="qword">133525216452795405</value>
   <value name="extversion" type="string">1.3.10</value>
   <value name="CTime" type="qword">133524952330959427</value>
   <value name="ShutdownReason" type="int">3</value>
