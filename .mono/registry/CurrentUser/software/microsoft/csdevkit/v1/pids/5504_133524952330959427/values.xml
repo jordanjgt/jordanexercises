@@ -1,13 +1,13 @@
 ﻿<values>
-  <value name="ExeName" type="string">Microsoft.VisualStudio.Code.ServiceHost</value>
-  <value name="VSExeVersion" type="string">0.2.158.4385</value>
+  <value name="extname" type="string">ms-dotnettools.csdevkit</value>
   <value name="VSInstanceId" type="string">ab14871d-5358-454a-bd16-6a8203f2a8801708021615642</value>
   <value name="VSIs64BitProcess" type="string">True</value>
+  <value name="ShutdownReason" type="int">3</value>
   <value name="vscodeversion" type="string">1.86.1</value>
-  <value name="StillAlive" type="qword">133525066445960844</value>
+  <value name="StillAlive" type="qword">133525159448800912</value>
   <value name="extversion" type="string">1.3.10</value>
   <value name="CTime" type="qword">133524952330959427</value>
-  <value name="ShutdownReason" type="int">3</value>
-  <value name="extname" type="string">ms-dotnettools.csdevkit</value>
+  <value name="ExeName" type="string">Microsoft.VisualStudio.Code.ServiceHost</value>
+  <value name="VSExeVersion" type="string">0.2.158.4385</value>
   <value name="PID" type="int">5504</value>
 </values>
