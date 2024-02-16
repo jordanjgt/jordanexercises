@@ -8,6 +8,6 @@
   <value name="VSInstanceId" type="string">710c3fd3-76db-4547-839c-98d7c3cd119e1708058103721</value>
   <value name="PID" type="int">5364</value>
   <value name="ExeName" type="string">Microsoft.CodeAnalysis.LanguageServer</value>
-  <value name="StillAlive" type="qword">133525389190981460</value>
+  <value name="StillAlive" type="qword">133525407191674786</value>
   <value name="vscodeversion" type="string">1.86.1</value>
 </values>
