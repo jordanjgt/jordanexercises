@@ -1,0 +1,15 @@
+/home/jmkivett93/Documents/Exercise 9/bin/Debug/net8.0/Exercise 9
+/home/jmkivett93/Documents/Exercise 9/bin/Debug/net8.0/Exercise 9.deps.json
+/home/jmkivett93/Documents/Exercise 9/bin/Debug/net8.0/Exercise 9.runtimeconfig.json
+/home/jmkivett93/Documents/Exercise 9/bin/Debug/net8.0/Exercise 9.dll
+/home/jmkivett93/Documents/Exercise 9/bin/Debug/net8.0/Exercise 9.pdb
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.AssemblyInfoInputs.cache
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.AssemblyInfo.cs
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.csproj.CoreCompileInputs.cache
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.sourcelink.json
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.dll
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/refint/Exercise 9.dll
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.pdb
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/Exercise 9.genruntimeconfig.cache
+/home/jmkivett93/Documents/Exercise 9/obj/Debug/net8.0/ref/Exercise 9.dll

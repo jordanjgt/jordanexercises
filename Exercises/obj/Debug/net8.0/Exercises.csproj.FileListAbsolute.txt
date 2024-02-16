@@ -1,0 +1,15 @@
+/home/jmkivett93/Documents/Exercises/bin/Debug/net8.0/Exercises
+/home/jmkivett93/Documents/Exercises/bin/Debug/net8.0/Exercises.deps.json
+/home/jmkivett93/Documents/Exercises/bin/Debug/net8.0/Exercises.runtimeconfig.json
+/home/jmkivett93/Documents/Exercises/bin/Debug/net8.0/Exercises.dll
+/home/jmkivett93/Documents/Exercises/bin/Debug/net8.0/Exercises.pdb
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.AssemblyInfoInputs.cache
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.AssemblyInfo.cs
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.csproj.CoreCompileInputs.cache
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.sourcelink.json
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.dll
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/refint/Exercises.dll
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.pdb
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/Exercises.genruntimeconfig.cache
+/home/jmkivett93/Documents/Exercises/obj/Debug/net8.0/ref/Exercises.dll

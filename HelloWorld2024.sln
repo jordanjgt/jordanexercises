@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld2024", "HelloWorl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{5B22C29F-B3DE-4DC7-BDDC-6BE79AED0FF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exercises.csproj", "{FB320831-4EE5-4032-916A-CF71722A8393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 9", "Exercise 9\Exercise 9.csproj", "{B8857CBA-9D5D-431A-AB90-4B62A2E35783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{5B22C29F-B3DE-4DC7-BDDC-6BE79AED0FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B22C29F-B3DE-4DC7-BDDC-6BE79AED0FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B22C29F-B3DE-4DC7-BDDC-6BE79AED0FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB320831-4EE5-4032-916A-CF71722A8393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB320831-4EE5-4032-916A-CF71722A8393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB320831-4EE5-4032-916A-CF71722A8393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB320831-4EE5-4032-916A-CF71722A8393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8857CBA-9D5D-431A-AB90-4B62A2E35783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8857CBA-9D5D-431A-AB90-4B62A2E35783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8857CBA-9D5D-431A-AB90-4B62A2E35783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8857CBA-9D5D-431A-AB90-4B62A2E35783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
